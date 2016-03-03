@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Multiverse]]></title>
+        <description><![CDATA[Multiverse]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 16:19:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom]]></title>
+            <description><![CDATA[<article><h1>An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom</h1><p>As one of the major tech companies in the VR field of China, unlike a lot of other companies, Noitom actually delivers. They've fulfilled their promise of kickstarter, and countinue to invest in virtual reality field. They showed their finger tacking solution (as part of their product Perception Neuron) combined with the vive in yesterday's HTC Vive Unbound Developer Conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcfdaa4b6ed11aa21fc7bede7035b088aecc2a62.jpg"></article>]]></description>
+            <link>http://www.vrerse.com/techtalk/an-interview-with-dr-dai-master-mind-behind-perception-neuron-and-noitom/</link>
+            <guid isPermaLink="false">543744ed-e076-4fe4-b6af-4dee69fe19d9</guid>
+            <pubDate>Thu, 03 Mar 2016 16:19:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
